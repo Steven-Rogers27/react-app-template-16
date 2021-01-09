@@ -1,1 +1,0 @@
-Object.prototype.__proto__ = Object.prototype.__proto__ || null;
